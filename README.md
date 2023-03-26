@@ -11,7 +11,7 @@
 <a href="https://discord.gg/umUueND6ag" rel="nofollow">
     <img alt="discord" src="https://camo.githubusercontent.com/5fd7cf8ac96659b5f65a50e23d3f5613f6e42b2d84f61d7a5f5dd188d0def1cf/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3834313435313738333732383532393435313f636f6c6f723d353836354632266c6162656c3d646973636f7264266c6f676f3d646973636f7264266c6f676f436f6c6f723d386139303935" data-canonical-src="https://img.shields.io/discord/841451783728529451?color=5865F2&amp;label=discord&amp;logo=discord&amp;logoColor=8a9095" style="max-width: 100%;">
   </a>
-<a href="https://www.edgedb.com/docs/guides/quickstart" rel="nofollow">Quickstart</a>
+<br><a href="https://www.edgedb.com/docs/guides/quickstart" rel="nofollow">Quickstart</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://www.edgedb.com" rel="nofollow">Website</a>
 <a href="https://www.edgedb.com/docs" rel="nofollow">Docs</a>
