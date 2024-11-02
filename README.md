@@ -39,3 +39,8 @@
 </div>
 
 https://github.com/edgedb/edgedb
+
+# Edgedb Tutorial
+- https://github.com/Dhghomon/edgedb_rust_client_examples
+- https://docs.edgedb.com/easy-edgedb
+- https://docs.edgedb.com/tutorial
